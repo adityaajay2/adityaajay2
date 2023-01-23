@@ -5,7 +5,7 @@
 
  <h3>
   👨🏻‍🎓 I am SWE Intern in Platform Team <br>
-  📬 Contact me here :  <a href="mailto:adityaajay201426622gmail.com">mail</a>
+  📬 Contact me here :  <a href="mailto:aditya.ajay@celigo.com">mail</a>
  </h3>
  
  ![Profile views](https://gpvc.arturio.dev/adityaajay2)
