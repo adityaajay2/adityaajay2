@@ -4,10 +4,8 @@
  </h1>
 
  <h3>
-  👨🏻‍🎓 I am a final year Electronics student at NIT Agartala <br>
-  🎯 I am interested in Software and Web Development <br>
-  🌱 I am currently learning frontend development with reactJS <br>
-  📬 Ping me to collab on a new project :  <a href="mailto:adityaajay201426622gmail.com">here</a>
+  👨🏻‍🎓 I am SWE Intern in Platform Team <br>
+  📬 Contact me here :  <a href="mailto:adityaajay201426622gmail.com">mail</a>
  </h3>
  
  ![Profile views](https://gpvc.arturio.dev/adityaajay2)
@@ -39,7 +37,7 @@
 
 <h2> 👨🏻‍💻 &nbsp;My Contributions</h2>
 
-![snake gif](https://github.com/adityaajay2/adityaajay2/blob/output/github-contribution-grid-snake.svg)
+<!---![snake gif](https://github.com/adityaajay2/adityaajay2/blob/output/github-contribution-grid-snake.svg)--->
 
 <!---languages used --->
 
