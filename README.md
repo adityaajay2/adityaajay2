@@ -1,16 +1,52 @@
-### Hi there 👋
+ <h1>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
-<!--
-**adityaajay2/adityaajay2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  I’m Aditya Ajay 👨🏻‍💻
+ </h1>
 
-Here are some ideas to get you started:
+ <h3>
+  👨🏻‍🎓 I am a final year Electronics student at NIT Agartala <br>
+  🎯 I am interested in Software and Web Development <br>
+  🌱 I am currently learning frontend development with reactJS <br>
+  📬 Ping me to collab on a new project :  <a href="mailto:adityaajay201426622gmail.com">here</a>
+ </h3>
+ 
+ ![Profile views](https://gpvc.arturio.dev/adityaajay2)
+ 
+ <!---Tools used --->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> 🚀 &nbsp;Tools I have worked on</h2>
+<p align="left">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
+          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
+          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45"/>        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45" height="45"/>
+          
+</p>
+
+
+<!---Snake game --->
+
+<h2> 👨🏻‍💻 &nbsp;My Contributions</h2>
+
+![snake gif](https://github.com/adityaajay2/adityaajay2/blob/output/github-contribution-grid-snake.svg)
+
+<!---languages used --->
+
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaajay2&show_icons=true&theme=radical&card_width=850em)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaajay2&layout=compact&theme=aura_dark&card_width=800em)
+
+<!---
+adityaajay2/adityaajay2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
