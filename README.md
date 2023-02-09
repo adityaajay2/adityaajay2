@@ -8,7 +8,7 @@
   📬 Contact me here :  <a href="mailto:aditya.ajay@celigo.com">mail</a>
  </h3>
  
- ![Profile views](https://gpvc.arturio.dev/adityaajay2)
+<!--  ![Profile views](https://gpvc.arturio.dev/adityaajay2) -->
  
  <!---Tools used --->
 
