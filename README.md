@@ -12,7 +12,7 @@
  
  <!---Tools used --->
 
-<h2> 🚀 &nbsp;Tools I have worked on</h2>
+<!-- <h2> 🚀 &nbsp;Tools I have worked on</h2>
 <p align="left">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
@@ -23,7 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
   
           
-</p>
+</p> -->
 
 
 <!---Snake game --->
