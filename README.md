@@ -28,15 +28,15 @@
 
 <!---Snake game --->
 
-<h2> 👨🏻‍💻 &nbsp;My Contributions</h2>
+<!-- <h2> 👨🏻‍💻 &nbsp;My Contributions</h2> -->
 
 <!---![snake gif](https://github.com/adityaajay2/adityaajay2/blob/output/github-contribution-grid-snake.svg)--->
 
 <!---languages used --->
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaajay2&show_icons=true&theme=radical&card_width=850em)
+<!-- ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaajay2&show_icons=true&theme=radical&card_width=850em)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaajay2&layout=compact&theme=aura_dark&card_width=800em)
-
+ -->
 <!---
 adityaajay2/adityaajay2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
