@@ -4,8 +4,7 @@
  </h1>
 
  <h3>
-  👨🏻‍🎓 I am SWE 2 in Platform Team <br>
-  💻 EDI and AS2 <br>
+  🧑🏻‍💻 Find my commits on EDI and AS2 <br>
   📬 Contact me here :  <a href="mailto:aditya.ajay@celigo.com">mail</a>
  </h3>
  
