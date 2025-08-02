@@ -28,9 +28,9 @@
 
 <!---Snake game --->
 
-<!-- <h2> 👨🏻‍💻 &nbsp;My Contributions</h2> -->
+### 🐍 Watch my contribution graph get eaten by a snake!
 
-<!---![snake gif](https://github.com/adityaajay2/adityaajay2/blob/output/github-contribution-grid-snake.svg)--->
+![Snake animation](https://github.com/adityaajay2/adityaajay2/blob/output/github-snake.svg)
 
 <!---languages used --->
 
